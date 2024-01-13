@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: #dddddd;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid gray;
+    margin: auto;
+    width: 80%;
+}
+
+p{
+    padding-left: 1%;
+    font-size: 125%
+}
+
+h1{
+    text-align: center;
+    font-size: 300%
+}
+
+h2{
+    padding-left: 1%;
+}
+
+ul{
+    padding-left: 4%;
+    font-size: 125%;
+}
+
+.top-padded{
+    padding-top: 10px;
+}
